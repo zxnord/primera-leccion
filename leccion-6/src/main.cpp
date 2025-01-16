@@ -3,7 +3,7 @@
 
 int main() {
     int a, b;
-    std::string mensaje(u8"¡Vamos a imprimir numeros en un rango. Con emojis 😀!");
+    std::string mensaje(u8"¡Vamos a imprimir numeros con emojis 😀!");
     imprimirMensaje(mensaje);
     biblioteca::imprimirMensajeBiblioteca(mensaje);
     
