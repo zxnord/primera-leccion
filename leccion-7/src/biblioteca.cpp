@@ -3,7 +3,7 @@
 namespace biblioteca {
 
 void Biblioteca::imprimirMensajeBiblioteca(const std::string & mensaje) {
-    std::cout << mensaje << u8" Desde la biblioteca. 😋" << std::endl;
+    std::cout << mensaje << u8" ; Desde la biblioteca. 😋" << std::endl;
 }
 
 void Biblioteca::calcular(int a, int b) {
